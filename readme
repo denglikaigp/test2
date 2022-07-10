@@ -1,3 +1,13 @@
-111111111
+dlk's first azure test project
 
-222222222
+
+
+-App service
+-Sql Server
+    - Sql Database
+-Storage Account
+-CosmocDB
+-KeyVault
+
+-Managed Identity
+-App Insight
